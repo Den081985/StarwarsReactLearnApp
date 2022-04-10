@@ -5,13 +5,13 @@ import Header from "../../components/Header";
 import PeoplePage from "../PeoplePage";
 import HomePage from "../HomePage";
 import styles from "./App.module.css";
-import { REPO_NAME } from "../../constants/repo";
+// import { REPO_NAME } from "../../constants/repo";
 //компоненты роутинга  отображаем через итерацию массива routesConfig
 //basename={`/${REPO_NAME}/`} указывается для деплоя
 const App = () => {
   return (
     <>
-      <BrowserRouter basename={`/${REPO_NAME}/`}>
+      <BrowserRouter>
         <div className={styles.wrapper}>
           <Header />
           <Routes>
