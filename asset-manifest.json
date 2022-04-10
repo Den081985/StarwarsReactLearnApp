@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/StarwarsReactLearnApp/static/css/main.57d9e9ed.css",
+    "main.js": "/StarwarsReactLearnApp/static/js/main.2e80291c.js",
+    "static/js/787.948ed7c7.chunk.js": "/StarwarsReactLearnApp/static/js/787.948ed7c7.chunk.js",
+    "static/media/bg.jpg": "/StarwarsReactLearnApp/static/media/bg.29b25be31315dad3ce4e.jpg",
+    "static/media/falcon.jpg": "/StarwarsReactLearnApp/static/media/falcon.c1d0a8d1869b3fbdb9ab.jpg",
+    "static/media/han-solo.mp4": "/StarwarsReactLearnApp/static/media/han-solo.db435084c403f6b37d4d.mp4",
+    "static/media/dark-side.jpg": "/StarwarsReactLearnApp/static/media/dark-side.e0f8cab78e4bdd7db45d.jpg",
+    "static/media/light-side.jpg": "/StarwarsReactLearnApp/static/media/light-side.eebc52171cd4ac0278ca.jpg",
+    "index.html": "/StarwarsReactLearnApp/index.html",
+    "main.57d9e9ed.css.map": "/StarwarsReactLearnApp/static/css/main.57d9e9ed.css.map",
+    "main.2e80291c.js.map": "/StarwarsReactLearnApp/static/js/main.2e80291c.js.map",
+    "787.948ed7c7.chunk.js.map": "/StarwarsReactLearnApp/static/js/787.948ed7c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57d9e9ed.css",
+    "static/js/main.2e80291c.js"
+  ]
+}
